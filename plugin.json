@@ -1,0 +1,23 @@
+{
+  "slug": "Branless",
+  "name": "Branless",
+  "version": "0.0.1",
+  "license": "GPL3",
+  "brand": "Branless",
+  "author": "ElwinBran",
+  "authorEmail": "elwinbran@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/ElwinBran/Branless",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "IVCA",
+      "name": "IVCA",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
